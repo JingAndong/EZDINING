@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h

@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Folly/folly/Portability.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Folly/folly/CPortability.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/jad/Documents/School/CS242/fa19-cs242-project/ezdining/EZDINING/EZDINING/node_modules/react-native/React/Base/RCTUtils.h
